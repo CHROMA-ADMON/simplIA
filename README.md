@@ -1,0 +1,2 @@
+# simplIA
+pagina web 
